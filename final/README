@@ -1,0 +1,5 @@
+Data Transfer  in a Network
+The task involves scheduling data transfer in a network modeled as an N × N square grid, where each edge has a randomly assigned maximum transmission speed between 0 and 1.
+The nodes on the top row represent internet clients, and the nodes on the bottom row represent servers. The Kirchhoff's law is applicable to the internal nodes.
+By using linear programming, determine the transmission speeds of servers and clients that maximize the overall data transfer rate.
+Additionally, analyze the statistical distribution of relevant quantities due to the random nature of the network.
