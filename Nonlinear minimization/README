@@ -1,0 +1,4 @@
+Numerical minimization
+Thomson problem: N equal classical electrical charges are constrained to the surface of a sphere.
+How do they distribute on the surface? We have to minimize electrostatic energy. Use one of the
+minimization methods, e.g. Powell’s method or amoeba.
