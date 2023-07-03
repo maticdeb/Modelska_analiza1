@@ -1,0 +1,6 @@
+Metropolis algorithm
+Molecular catenoid: 17-segment chain-like molecule is fixed at both ends. Every segment
+is at one of 19 equidistant height levels. Hamiltonian consists of gravitaional potential energy
+and elastic energy, proportional to the square of height differences between neighbours. Find
+an equillibrium state and equillibrium energy for different temperatures. For elementary step in
+Metropolis algorithm, use a height change for one unit at a random segment.
